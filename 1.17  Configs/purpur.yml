@@ -16,7 +16,7 @@ settings:
   lagging-threshold: 19.0
   allow-water-placement-in-the-end: true
   tps-catchup: true
-  server-mod-name: Purpur
+  server-mod-name: §6Optimised Purpur Config §f- §7§ngithub.com/OLIMINATOR/performance-configs§8
   disable-give-dropping: false
   broadcasts:
     advancement:
