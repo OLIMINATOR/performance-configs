@@ -1,8 +1,10 @@
 # Server Performance Configs
-Optimized configs aimed for big survival-economy servers. That requires handling a lot of players on a single server.
+Optimized configs aimed for big survival-economy servers. That requires handling a lot of players on a single server. But I highly recommend customizing it for your needs using the guides listed below.  
+
+There are only 1.17 configs for now.
 ## Guides Used
 To optimized these confins I used these guides:
-* [YouHaveTrouble](https://github.com/YouHaveTrouble/minecraft-optimization)
+* [YouHaveTrouble's Guide](https://github.com/YouHaveTrouble/minecraft-optimization)
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/)
 * [Paper Chan’s Little Guide](https://eternity.community/index.php/paper-optimization/)
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/)
@@ -26,3 +28,5 @@ You can use [BirdFlop's](https://www.birdflop.com/) discord bot on their [discor
 * [AntiRedstoneClock](https://www.spigotmc.org/resources/antiredstoneclock-worldguard-plotsquard-support-1-8-1-17.18557/) - Disables redstone clocks when your server TPS drops.
 
 * [Spark](https://www.spigotmc.org/resources/antiredstoneclock-worldguard-plotsquard-support-1-8-1-17.18557/) - Allows you to analyse your servers CPU and memory usage.
+
+* [Chunky](https://github.com/pop4959/Chunky) - Pregenerates chunks for better performance on survival servers.
