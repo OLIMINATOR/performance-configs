@@ -11,6 +11,7 @@ To optimized these confins I used these guides:
 * [Anarchy Server Optimization](https://github.com/moom0o/AnarchyExploitFixes/wiki/Anarchy-Server-Optimization-Guide)
 * [Top 10 Things You Missed Optimizing](https://blog.airplane.gg/10-things-you-missed-optimizing-survival-mc/) 
 * [Shockbyte Reducing Lag](https://shockbyte.com/billing/knowledgebase/21/Reducing-Lag)
+* [Purpur Documentation](https://purpur.pl3x.net/docs/Configuration/)
 
 ## Recommendations
 
@@ -30,3 +31,6 @@ You can use [BirdFlop's](https://www.birdflop.com/) discord bot on their [discor
 * [Spark](https://www.spigotmc.org/resources/antiredstoneclock-worldguard-plotsquard-support-1-8-1-17.18557/) - Allows you to analyse your servers CPU and memory usage.
 
 * [Chunky](https://github.com/pop4959/Chunky) - Pregenerates chunks for better performance on survival servers.
+
+<br>
+Last configs update 3.11.2021
