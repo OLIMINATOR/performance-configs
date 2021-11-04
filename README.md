@@ -20,7 +20,7 @@ To optimised these confins I used these guides:
 * **Item removal plugins** - these "free optimization" plugins are most of the time useless as you can "replace" them with item/alt item despawn rates in spigot.yml.
 
 ### Check your timings
-Create a timings report, timing can give you a lot of helpful information about what is making your server lag ext.
+Create a timings report, timings can give you a lot of helpful information about what is making your server lag ext.
 
 You can use [BirdFlop's](https://www.birdflop.com/) @Discord bot on their [Discord guild](https://discord.com/invite/nmgtX5z) that you cand send the timings report to, it will tell you a few good ways to optimise your server.
 
