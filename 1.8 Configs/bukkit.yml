@@ -1,0 +1,34 @@
+# Optimised minecraft server configs
+# By https://github.com/OLIMINATOR
+# I highly recommend customising it for your needs.
+
+
+settings:
+  allow-end: true
+  warn-on-overload: true
+  permissions-file: permissions.yml
+  update-folder: update
+  plugin-profiling: false
+  connection-throttle: 120
+  query-plugins: false
+  deprecated-verbose: default
+  shutdown-message: §cServer closed.
+spawn-limits:
+  monsters: 15
+  animals: 5
+  water-animals: 1
+  ambient: 1
+chunk-gc:
+  period-in-ticks: 400
+  load-threshold: 0
+ticks-per:
+  animal-spawns: 400
+  monster-spawns: 8
+  autosave: 6000
+aliases: now-in-commands.yml
+database:
+  username: bukkit
+  isolation: SERIALIZABLE
+  driver: org.sqlite.JDBC
+  password: walrus
+  url: jdbc:sqlite:{DIR}{NAME}.db

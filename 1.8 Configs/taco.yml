@@ -1,0 +1,21 @@
+# Optimised minecraft server configs
+# By https://github.com/OLIMINATOR
+# I highly recommend customising it for your needs.
+
+config-version: 1
+world-settings:
+  default:
+    verbose: true
+    hopper:
+      fire-InventoryMoveItemEvent: true
+      push-based: true
+    armor-stand:
+      optimize-movement: true
+    grass-ignores-light: true
+    tnt:
+      optimize-liquid-explosions: true
+      optimize-movement: true
+    disable-falling-block-stacking-at-256: true
+    allow-non-player-entities-on-scoreboards: false
+    fix-east-west-cannoning: false
+    redstone-fire-BlockPhysicsEvent: true

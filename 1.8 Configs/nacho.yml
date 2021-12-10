@@ -1,0 +1,72 @@
+# Optimised minecraft server configs
+# By https://github.com/OLIMINATOR
+# I highly recommend customising it for your needs.
+
+config-version: 6
+settings:
+  chunk:
+    threads: 2
+    players-per-thread: 50
+  player-time-statistics-interval: 90
+  panda-wire: true
+  brand-name: §6Optimised Purpur Config §f- §7§ngithub.com/OLIMINATOR/performance-configs§8
+  commands:
+    enable-version-command: false
+    enable-plugins-command: false
+    enable-reload-command: false
+  anti-malware: false
+  fixed-pools:
+    use-fixed-pools-for-explosions: false
+    size: 500
+  disabled-block-fall-animation: false
+  patch-protocollib: true
+  stop-notify-bungee: true
+  anti-crash: true
+  fast-operators: false
+  save-empty-scoreboard-teams: false
+  kick-on-illegal-behavior: true
+  event:
+    fire-entity-explode-event: true
+    fire-player-move-event: false
+    fire-leaf-decay-event: true
+  stop-decoding-itemstack-on-place: true
+  use-tcp-nodelay: true
+  faster-cannon-tracker: true
+  fix-eat-while-running: true
+  hide-projectiles-from-hidden-players: false
+  lag-compensated-potions: false
+  smooth-potting: true
+  anti-enderpearl-glitch: true
+  disable-infinisleeper-thread-usage: false
+  enable-fastmath: false
+  tile-entity-ticking-time: 20
+  item-dirty-ticks: 20
+  use-tcp-fastopen: true
+  tcp-fastopen-mode: 1
+  enable-protocollib-shim: true
+  instant-interaction: false
+  instant-use-entity: false
+world-settings:
+  default:
+    verbose: false
+    physics:
+      disable-place: true
+      disable-update: true
+    settings:
+      physics:
+        disable-update: false
+    enable-lava-to-cobblestone: false
+    explosions:
+      constant-radius: false
+      explode-protected-regions: true
+      reduced-density-rays: true
+    entity:
+      mob-ai: false
+      mob-sound: false
+      entity-activation: false
+      endermite-spawning: false
+    infinite-water-sources: true
+    disable-sponge-absorption: false
+    tick-enchantment-tables: false
+    block-operations: true
+    unload-chunks: true
