@@ -3,7 +3,7 @@ Optimised configs aimed for big survival economy servers. That require handling 
 
 There are only 1.17 configs for now.
 ## Guides Used
-To optimised these confins I used these guides:
+To optimise these configs, I used these guides:
 * [YouHaveTrouble's Guide](https://github.com/YouHaveTrouble/minecraft-optimization)
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/)
 * [Paper Chan’s Little Guide](https://eternity.community/index.php/paper-optimization/)
