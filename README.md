@@ -17,7 +17,7 @@ To optimise these configs, I used these guides:
 
 ### Stay away from these plugins
 * **Stacker plugins** - stacking entities causes more lag because the server is than always trying to spawn new mobs. I would recommend stacker plugins only for stacking mobs from spawners and disabling their AI.
-* **Item removal plugins** - these "free optimization" plugins are most of the time useless as you can "replace" them with item/alt item despawn rates in spigot.yml.
+* **Item removal plugins** - these "free performance" plugins are most of the time useless as you can "replace" them with item/alt item despawn rates in spigot.yml.
 
 ### Check your timings
 Create a timings report, timings can give you a lot of helpful information about what is making your server lag ext.
