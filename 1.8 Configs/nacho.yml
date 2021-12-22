@@ -9,7 +9,7 @@ settings:
     players-per-thread: 50
   player-time-statistics-interval: 90
   panda-wire: true
-  brand-name: §6Optimised Purpur Config §f- §7§ngithub.com/OLIMINATOR/performance-configs§8
+  brand-name: §6Optimised Nacho Config §f- §7§ngithub.com/OLIMINATOR/performance-configs§8
   commands:
     enable-version-command: false
     enable-plugins-command: false
