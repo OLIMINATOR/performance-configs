@@ -96,7 +96,7 @@ settings:
 messages:
   no-permission: '&cYou do not have permission to perform this command.'
   kick:
-    authentication-servers-down: ''
+    authentication-servers-down: '&cMojang servers are unreachable, return later.'
     connection-throttle: '&c&nConnection throttled! &cPlease wait before reconnecting.'
     flying-player: '&cFlying is not enabled on this server'
     flying-vehicle: '&cFlying is not enabled on this server'
