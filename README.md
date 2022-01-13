@@ -7,7 +7,6 @@ To optimise these configs, I used these guides:
 * [YouHaveTrouble's Guide](https://github.com/YouHaveTrouble/minecraft-optimization)
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/)
 * [Paper Chan’s Little Guide](https://eternity.community/index.php/paper-optimization/)
-* [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/)
 * [Anarchy Server Optimization](https://github.com/moom0o/AnarchyExploitFixes/wiki/Anarchy-Server-Optimization-Guide)
 * [Top 10 Things You Missed Optimizing](https://blog.airplane.gg/10-things-you-missed-optimizing-survival-mc/) 
 * [Shockbyte Reducing Lag](https://shockbyte.com/billing/knowledgebase/21/Reducing-Lag)
