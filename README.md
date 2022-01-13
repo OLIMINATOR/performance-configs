@@ -36,4 +36,3 @@ You can use [BirdFlop's](https://www.birdflop.com/) @Discord bot on their [Disco
 * [Chunky](https://github.com/pop4959/Chunky) - Pre-generates chunks for better performance on survival servers.
 
 <br>
-Last configs update 3.11.2021
