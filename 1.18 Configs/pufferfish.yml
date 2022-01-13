@@ -1,0 +1,28 @@
+# Optimised minecraft server configs
+# By https://github.com/OLIMINATOR
+# I highly recommend customising it for your needs.
+
+info:
+  version: '1.0'
+sentry-dsn: ''
+enable-books: true
+enable-async-mob-spawning: true
+# Optimizes entity brains when
+# they're far away from the player
+dab:
+  enabled: true
+  start-distance: 12
+  max-tick-freq: 20
+  activation-dist-mod: 7
+  blacklisted-entities: []
+inactive-goal-selector-throttle: true
+# Configures Flare, the built-in profiler
+flare:
+  url: https://flare.airplane.gg
+# Options for connecting to Pufferfish/Airplane's online utilities
+web-services:
+  token: ''
+# Optimizes projectile settings
+projectile:
+  max-loads-per-tick: 10
+  max-loads-per-projectile: 7
