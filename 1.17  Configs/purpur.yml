@@ -1,12 +1,6 @@
-# This is the main configuration file for Purpur.
-# As you can see, there's tons to configure. Some options may impact gameplay, so use
-# with caution, and make sure you know what each option does before configuring.
-# 
-# If you need help with the configuration or have any questions related to Purpur,
-# join us in our Discord guild.
-# 
-# Website: https://github.com/pl3xgaming/Purpur 
-# Wiki: https://github.com/pl3xgaming/Purpur/wiki 
+# Optimised minecraft server configs
+# By https://github.com/OLIMINATOR
+# I highly recommend customising it for your needs.
 
 verbose: false
 config-version: 22

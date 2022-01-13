@@ -1,14 +1,6 @@
-# This is the main configuration file for Spigot.
-# As you can see, there's tons to configure. Some options may impact gameplay, so use
-# with caution, and make sure you know what each option does before configuring.
-# For a reference for any variable inside this file, check out the Spigot wiki at
-# http://www.spigotmc.org/wiki/spigot-configuration/
-# 
-# If you need help with the configuration or have any questions related to Spigot,
-# join us at the IRC or drop by our forums and leave a post.
-# 
-# IRC: #spigot @ irc.spi.gt ( http://www.spigotmc.org/pages/irc/ )
-# Forums: http://www.spigotmc.org/
+# Optimised minecraft server configs
+# By https://github.com/OLIMINATOR
+# I highly recommend customising it for your needs.
 
 config-version: 12
 settings:

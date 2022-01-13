@@ -1,6 +1,7 @@
-# Airplane Configuration
-# Read https://blog.airplane.gg/ to find out more about Airplane
-# Join our Discord to receive support & optimization help: https://discord.gg/3gtc45q
+# Optimised minecraft server configs
+# By https://github.com/OLIMINATOR
+# I highly recommend customising it for your needs.
+
 info:
   version: '1.0'
 # Optimizes projectile settings

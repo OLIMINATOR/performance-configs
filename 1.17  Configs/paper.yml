@@ -1,14 +1,6 @@
-# This is the main configuration file for Paper.
-# As you can see, there's tons to configure. Some options may impact gameplay, so use
-# with caution, and make sure you know what each option does before configuring.
-# 
-# If you need help with the configuration or have any questions related to Paper,
-# join us in our Discord or IRC channel.
-# 
-# Discord: https://discord.gg/papermc
-# IRC: #paper @ irc.esper.net ( https://webchat.esper.net/?channels=paper ) 
-# Website: https://papermc.io/ 
-# Docs: https://paper.readthedocs.org/ 
+# Optimised minecraft server configs
+# By https://github.com/OLIMINATOR
+# I highly recommend customising it for your needs.
 
 verbose: false
 config-version: 23
