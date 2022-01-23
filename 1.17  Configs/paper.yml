@@ -159,7 +159,7 @@ world-settings:
     only-players-collide: false
     allow-vehicle-collisions: true
     allow-non-player-entities-on-scoreboards: false
-    portal-search-radius: 32
+    portal-search-radius: 128
     portal-create-radius: 16
     portal-search-vanilla-dimension-scaling: true
     armor-stands-do-collision-entity-lookups: false
